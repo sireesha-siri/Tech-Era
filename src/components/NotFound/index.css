@@ -1,0 +1,25 @@
+.not-found-container {
+  margin-top: 30px;
+  margin-left: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.not-found-image {
+  width: 50%;
+}
+
+.not-found-heading {
+  font-size: 60px;
+  color: #475569;
+  margin-top: 40px;
+}
+
+.not-found-description {
+  font-size: 20px;
+  color: #64748b;
+  margin-top: 0px;
+}

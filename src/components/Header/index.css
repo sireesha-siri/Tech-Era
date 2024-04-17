@@ -1,0 +1,10 @@
+.nav-header {
+  background-color: #f1f5f9;
+  display: flex;
+  padding: 30px;
+}
+
+.website-logo {
+  width: 40%;
+  margin-left: 50px;
+}
